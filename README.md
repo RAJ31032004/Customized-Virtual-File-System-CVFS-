@@ -1,6 +1,5 @@
 # Customized-Virtual-File-System-CVFS-
-T
-he Customised Virtual File System (CVFS) is a simulation of the Linux File System developed using the C programming language.
+The Customised Virtual File System (CVFS) is a simulation of the Linux File System developed using the C programming language.
 This project demonstrates the internal working of operating system file management such as:
 
 File Creation
@@ -15,7 +14,7 @@ File Listing
 
 Permission Handling
 
-It provides an in-memory implementation of file system components like:
+##It provides an in-memory implementation of file system components like:
 
 Boot Block
 
